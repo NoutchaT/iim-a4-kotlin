@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iim-a4-kotlin</string>
+    <string name="button_text">Bouton</string>
+</resources>
